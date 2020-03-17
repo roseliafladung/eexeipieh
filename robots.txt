@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jongeuche.elm-lang.cz/sitemap.xml
